@@ -83,6 +83,9 @@ class ProductoController extends Controller
         </nav>
     */
 
+    
+    //CONTROLLERS DEL DASHBOARD JEJE 
+
     public function indexDashboard() {
         $producto = Producto::all();
 
